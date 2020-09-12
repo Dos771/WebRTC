@@ -55,3 +55,5 @@ function addVideoStream(video, stream) {
   })
   videoGrid.append(video)
 }
+
+console.log('test')
